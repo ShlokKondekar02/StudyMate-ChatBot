@@ -1,0 +1,22 @@
+{
+  "name": "studymate-ai",
+  "version": "1.0.0",
+  "description": "StudyMate AI - College study and exam companion powered by Groq and FastAPI",
+  "private": true,
+  "scripts": {
+    "dev:frontend": "cd frontend && npm run dev",
+    "dev:backend": "cd backend && python run.py",
+    "install:frontend": "cd frontend && npm install",
+    "build:frontend": "cd frontend && npm run build"
+  },
+  "keywords": [
+    "prompt-engineering",
+    "groq",
+    "fastapi",
+    "react",
+    "vite",
+    "study-assistant"
+  ],
+  "author": "College Prompt Engineering Student",
+  "license": "MIT"
+}
